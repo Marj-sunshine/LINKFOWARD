@@ -1,5 +1,10 @@
 # LINKFOWARD
+LINKFORWARD 
 SALES MANAGEMENT SYSTEM
+The significance of this system is to help and promote
+small businesses with the aid of technology. This system
+will be built as a user-friendly device to help the
+entrepreneurs and consumer.
 
 About our System:
 
